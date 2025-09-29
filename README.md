@@ -1,7 +1,7 @@
 # 🔬 Ms Temperature Prediction in HSLA Steels
 
 **Undergraduate Project | IIT Kanpur**  
-**Supervisor:** Prof. Amarendra Kumar Singh
+**Supervisor:** _Prof. Amarendra Kumar Singh_ & _Prof. Soumya Sridar_
 
 ---
 
