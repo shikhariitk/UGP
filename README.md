@@ -55,7 +55,7 @@ You can view/download the full project report here:
 - Matplotlib / Seaborn (visualization)
 
 For queries, feel free to reach out:  
-📧 gprashant22@iitk.ac.in  
+📧 shikharc22@iitk.ac.in  
 
 ---
 
